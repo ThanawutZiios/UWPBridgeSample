@@ -1,0 +1,16 @@
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bin\Debug\ReverseMap\resources.pri
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bin\Debug\AppxManifest.xml
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bin\Debug\UWPJs.build.appxrecipe
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\ResourceHandlingTask.state
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\priconfig.xml
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\priconfig.xml.intermediate
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\layout.resfiles
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\layout.resfiles.intermediate
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\resources.resfiles
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\resources.resfiles.intermediate
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\pri.resfiles
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\pri.resfiles.intermediate
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\qualifiers.txt
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\qualifiers.txt.intermediate
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\tour\onedrive\documents\visual studio 2015\Projects\UWPBridge\UWPJs\bld\Debug\ProjectArchitectures.txt
